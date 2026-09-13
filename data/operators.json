@@ -1,0 +1,8 @@
+[
+  {"name":"GMOオフィスサポート","min":660,"reg":1650,"setup":0,"mail":"月1・隔週・週1","spots":"全国主要都市","check":"2026-09-14","note":"660円プランは法人登記・郵便受取不可。登記可能は1,650円から。","url":"https://www.gmo-office.com/price/"},
+  {"name":"レゾナンス","min":550,"reg":990,"setup":5500,"mail":"月1または週1","spots":"東京・横浜・大阪ほか","check":"2026-09-14","note":"法人登記可能は990円から。入会金は通常5,500円、キャンペーン変動あり。","url":"https://virtualoffice-resonance.jp/service/"},
+  {"name":"DMMバーチャルオフィス","min":660,"reg":660,"setup":5500,"mail":"週1・受取制限あり","spots":"全国主要都市","check":"2026-09-14","note":"660円でも法人登記可。ただし郵便・荷物の受取範囲に制限があり年間契約一括払い。","url":"https://virtualoffice.dmm.com/price"},
+  {"name":"Karigo","min":4700,"reg":4700,"setup":5500,"mail":"店舗・プランによる","spots":"全国60拠点以上","check":"2026-09-14","note":"ホワイトプラン4,700円から、入会金5,500円から。店舗ごとに料金・条件が異なる。","url":"https://karigo.net/service-plan/white-plan/"},
+  {"name":"ワンストップビジネスセンター","min":5280,"reg":5280,"setup":10780,"mail":"週1・送料手数料0円","spots":"全国主要都市","check":"2026-09-14","note":"全プラン法人登記可。エコノミー5,280円、初期費用10,780円。","url":"https://www.1sbc.com/plan/"},
+  {"name":"バーチャルオフィス1","min":880,"reg":880,"setup":5500,"mail":"月4回＋郵送実費","spots":"渋谷・神保町・広島ほか","check":"2026-09-14","note":"年払い880円で法人登記と月4回郵便転送を含む。初年度入会金5,500円。","url":"https://virtualoffice1.jp/"}
+]
