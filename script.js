@@ -1,7 +1,7 @@
 (()=>{
   const q=(s,c=document)=>c.querySelector(s), qa=(s,c=document)=>[...c.querySelectorAll(s)];
   const css=q('link[rel="stylesheet"]')?.getAttribute('href')||'style.css';
-  const pre=css.startsWith('../')?'../':'';
+  const pre=css.replace(/style\.css(?:\?.*)?$/,'');
   const home=pre==='';
   const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
   const path=location.pathname;
